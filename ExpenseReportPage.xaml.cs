@@ -16,13 +16,13 @@ using System.Windows.Shapes;
 namespace WpfApplication1
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for ExpenseReportPage.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class ExpenseReportPage : Page
     {
-        public MainWindow()
+        public ExpenseReportPage()
         {
-         //   InitializeComponent();
+            InitializeComponent();
         }
     }
 }
