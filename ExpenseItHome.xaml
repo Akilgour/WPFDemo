@@ -23,7 +23,7 @@
         </Grid.RowDefinitions>
 
         <Grid.Background>
-            <ImageBrush ImageSource="..\Images\watermark.jpg"/>
+            <ImageBrush ImageSource="/Images/watermark.jpg"/>
         </Grid.Background>
 
         <Label Grid.Column="1" VerticalAlignment="Center" FontFamily="Trebuchet MS" 
